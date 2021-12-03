@@ -1,4 +1,9 @@
 
+<p align="center">
+  <img src="https://github.com/iamnishantgaharwar/Twitter-Bot/blob/main/logo1.png" alt="" srcset="">
+</p>
+
+
 # Twitter Bot
 
 Automate your Twitter Account 
